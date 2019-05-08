@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="githubcol" table="x_307077_testaaa_apptest">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="acolumn" table="x_307077_testaaa_apptest">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Githubcol</column_label>
+        <column_label>Acolumn</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +27,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>githubcol</element>
+        <element>acolumn</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>40</max_length>
+        <max_length>100</max_length>
         <name>x_307077_testaaa_apptest</name>
         <next_element/>
         <primary>false</primary>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-05-08 05:37:18</sys_created_on>
-        <sys_id>556b8bd9db5173009ade9c66db961966</sys_id>
+        <sys_created_on>2019-05-08 06:10:53</sys_created_on>
+        <sys_id>b63c0359db5173009ade9c66db96197c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Githubcol</sys_name>
+        <sys_name>Acolumn</sys_name>
         <sys_package display_value="TESTAAA" source="x_307077_testaaa">56424799db5133005c7d2bfa4b96192d</sys_package>
         <sys_policy/>
         <sys_scope display_value="TESTAAA">56424799db5133005c7d2bfa4b96192d</sys_scope>
-        <sys_update_name>sys_dictionary_x_307077_testaaa_apptest_githubcol</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-05-08 06:06:51</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_307077_testaaa_apptest_acolumn</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 06:10:53</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
