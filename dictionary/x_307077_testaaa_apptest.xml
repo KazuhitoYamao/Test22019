@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="APPTEST" max_length="40" name="x_307077_testaaa_apptest" type="collection"/>
+    <element extends="task" label="APPTEST" max_length="40" name="x_307077_testaaa_apptest" type="collection">
+        <element label="Githubcol" max_length="40" name="githubcol" type="string"/>
+    </element>
 </database>
