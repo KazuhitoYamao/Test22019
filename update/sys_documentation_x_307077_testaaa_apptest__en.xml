@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_documentation element="" label="APPTEST" language="en" table="x_307077_testaaa_apptest">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
@@ -12,7 +11,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-05-08 05:31:56</sys_created_on>
-            <sys_id>f563879ddb5133005c7d2bfa4b9619a1</sys_id>
+            <sys_id>caf48b15db5173009ade9c66db961996</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>APPTEST</sys_name>
             <sys_package display_value="TESTAAA" source="x_307077_testaaa">56424799db5133005c7d2bfa4b96192d</sys_package>
