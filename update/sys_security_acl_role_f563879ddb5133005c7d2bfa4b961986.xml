@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 05:31:56</sys_created_on>
+        <sys_id>f563879ddb5133005c7d2bfa4b961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_307077_testaaa_apptest.x_307077_testaaa.apptest_user</sys_name>
+        <sys_package display_value="TESTAAA" source="x_307077_testaaa">56424799db5133005c7d2bfa4b96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TESTAAA">56424799db5133005c7d2bfa4b96192d</sys_scope>
+        <sys_security_acl display_value="x_307077_testaaa_apptest">f563879ddb5133005c7d2bfa4b961983</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f563879ddb5133005c7d2bfa4b961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 05:31:56</sys_updated_on>
+        <sys_user_role display_value="x_307077_testaaa.apptest_user" name="x_307077_testaaa.apptest_user">3963879ddb5133005c7d2bfa4b961972</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
