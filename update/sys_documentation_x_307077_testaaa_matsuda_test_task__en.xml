@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="matsuda_TEST_Task" language="en" table="x_307077_testaaa_matsuda_test_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>matsuda_TEST_Task</label>
+            <language>en</language>
+            <name>x_307077_testaaa_matsuda_test_task</name>
+            <plural>matsuda_TEST_Tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-08 06:17:21</sys_created_on>
+            <sys_id>dfcdcb9ddb5173009ade9c66db9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>matsuda_TEST_Task</sys_name>
+            <sys_package display_value="TESTAAA" source="x_307077_testaaa">56424799db5133005c7d2bfa4b96192d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TESTAAA">56424799db5133005c7d2bfa4b96192d</sys_scope>
+            <sys_update_name>sys_documentation_x_307077_testaaa_matsuda_test_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-08 06:17:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

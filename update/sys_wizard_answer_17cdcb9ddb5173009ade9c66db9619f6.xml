@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>matsuda_TEST_Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>matsuda_TEST_Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6cdbdf75dd0323007850f2ee37a03983</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 06:17:21</sys_created_on>
+        <sys_id>17cdcb9ddb5173009ade9c66db9619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>matsuda_TEST_Task</sys_name>
+        <sys_package display_value="TESTAAA" source="x_307077_testaaa">56424799db5133005c7d2bfa4b96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TESTAAA">56424799db5133005c7d2bfa4b96192d</sys_scope>
+        <sys_update_name>sys_wizard_answer_17cdcb9ddb5173009ade9c66db9619f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 06:17:21</sys_updated_on>
+        <table/>
+        <target_url>x_307077_testaaa_matsuda_test_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
